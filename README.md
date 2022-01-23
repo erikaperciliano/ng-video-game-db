@@ -1,27 +1,56 @@
-# NgVideoGameDb
+# NgVDB - Game database website
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
+## 📚 Project information
 
-## Development server
+* The objective of this project is Improve my skill in Angular.
+In this project I´m building an angular application from scratch and I´m using public api to create this interesting game database website. 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+&nbsp;
 
-## Code scaffolding
+## 💻📱 What's I will do in the project?
+ 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* I will show you how to set up a project using angluar CLI.
+* How to create components how to make http calls.
+* How to implement http interceptors.
+* How to make services.
+* Also I will  to set up routes for this application.
+* Pass data with routes in between the components.
+* I will use pipes for data formatting various angular directives like ng4 and ngif...
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+&nbsp;
 
-## Running unit tests
+## 🛠️ Technologies/Tools used
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* [Angular CLI](https://angular.io/docs)
+* [Typescript](https://www.typescriptlang.org/docs/)
+* [Sass](https://sass-lang.com/documentation)
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## ⚙️ Installation
+```
+# Open a terminal and copy this repository with the command
+$ git clone https://github.com/GBDev13/space-traveling.git
+```
 
-## Further help
+```
+# Access the application folder
+$ cd space-traveling
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# Create an .env.local file 
+# install dependencies
+$ yarn
+
+# Start the application
+$ ng serve
+
+```
+
+&nbsp;
+
+---
+
+<p align="center">💙 by Erika Perciliano</p>
+
+
