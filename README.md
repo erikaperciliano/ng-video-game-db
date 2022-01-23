@@ -40,7 +40,7 @@ $ cd space-traveling
 
 # Create an .env.local file 
 # install dependencies
-$ yarn
+$ npm install
 
 # Start the application
 $ ng serve
