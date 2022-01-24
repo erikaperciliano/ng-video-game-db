@@ -31,12 +31,12 @@ In this project I´m building an angular application from scratch and I´m using
 ## ⚙️ Installation
 ```
 # Open a terminal and copy this repository with the command
-$ git clone https://github.com/GBDev13/space-traveling.git
+$ git clone https://github.com/erikaperciliano/ng-video-game-db.git
 ```
 
 ```
 # Access the application folder
-$ cd space-traveling
+$ cd ng-video-game-db
 
 # Create an .env.local file 
 # install dependencies
